@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 110 137.5"
+   version="1.1"
+   x="0px"
+   y="0px"
+   id="svg3255"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="club.svg">
+  <metadata
+     id="metadata3275">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Clubs</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3273" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="825"
+     inkscape:window-height="480"
+     id="namedview3271"
+     showgrid="false"
+     inkscape:zoom="2.0290909"
+     inkscape:cx="55"
+     inkscape:cy="68.75"
+     inkscape:window-x="75"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3255" />
+  <title
+     id="title3257">Clubs</title>
+  <desc
+     id="desc3259">Created with Sketch.</desc>
+  <g
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     id="g3261">
+    <g
+       fill="#000000"
+       id="g3263">
+      <path
+         d="M60.5576735,79.9851789 C60.5643584,80.1625375 60.5717302,80.3388532 60.579839,80.5136246 C60.6828177,82.7331421 61.0511876,84.7250476 61.2639536,85.3857344 C61.6469991,86.5751779 61.815508,87.8699731 62.2043854,88.9657685 C64.1933821,94.570448 66.3076923,98.6883266 66.3076923,100.448337 C66.3076923,104.915773 62.3584519,105 62.3584519,105 L55,105 L47.6415481,105 C47.6415481,105 43.6923077,104.915773 43.6923077,100.448337 C43.6923077,98.6883266 45.8066179,94.570448 47.7956146,88.9657685 C48.184492,87.8699731 48.3530009,86.5751779 48.7360464,85.3857344 C48.9488124,84.7250476 49.3171823,82.7331421 49.420161,80.5136246 C49.4282698,80.3388532 49.4356416,80.1625375 49.4423265,79.9851789 C44.9490417,85.3938576 38.1320569,88.8439389 30.5,88.8439389 C16.9690236,88.8439389 6,77.9995671 6,64.6223566 C6,51.245146 16.9690236,40.4007742 30.5,40.4007742 C31.4626023,40.4007742 32.4122386,40.4556575 33.3458819,40.5624315 C31.529165,37.179036 30.5,33.3191306 30.5,29.2215824 C30.5,15.8443718 41.4690236,5 55,5 C68.5309764,5 79.5,15.8443718 79.5,29.2215824 C79.5,33.3191306 78.470835,37.179036 76.6541181,40.5624315 C77.5877614,40.4556575 78.5373977,40.4007742 79.5,40.4007742 C93.0309764,40.4007742 104,51.245146 104,64.6223566 C104,77.9995671 93.0309764,88.8439389 79.5,88.8439389 C71.8679431,88.8439389 65.0509583,85.3938576 60.5576735,79.9851789 L60.5576735,79.9851789 Z"
+         id="path3265" />
+    </g>
+  </g>
+</svg>
